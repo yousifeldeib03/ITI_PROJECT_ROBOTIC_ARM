@@ -1,6 +1,6 @@
 # ITI_PROJECT_ROBOTIC_ARM
 # 3-DOF Robotic Arm with Gripper  
-
+🔗 [Project Files (Google Drive)](https://drive.google.com/drive/u/0/folders/18VVm8OIPlzXFplUnExTDPv9tBvTjbTqG) 
 An embedded systems project featuring a **degree-of-freedom robotic arm with gripper**, built around the **ATmega32 microcontroller**. The system enables precise control of each joint using a **4×4 keypad interface**, with real-time visual feedback provided on a **16×2 LCD display**.  
 
 ---
